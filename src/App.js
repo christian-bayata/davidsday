@@ -11,7 +11,6 @@ function App() {
     <article className="p-0 m-0">
       <Slider />
       <Experience />
-      <Footer />
     </article>
   );
 }

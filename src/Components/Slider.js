@@ -13,28 +13,28 @@ function Slider() {
           <div className="carousel-item active">
             <img
               src={process.env.PUBLIC_URL + `images/img4.jpg`}
-              className="slider d-block h-50 w-100"
+              className="slider d-block w-100 img-fluid"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
               src={process.env.PUBLIC_URL + `images/img2.jpg`}
-              className="slider d-block h-50 w-100"
+              className="slider d-block h-50 w-100 img-fluid"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
               src={process.env.PUBLIC_URL + `images/img1.jpg`}
-              className="slider d-block h-50 w-100"
+              className="slider d-block h-50 w-100 img-fluid"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
               src={process.env.PUBLIC_URL + `images/img5.jpg`}
-              className="slider d-block h-50 w-100"
+              className="slider d-block h-50 w-100 img-fluid"
               alt="..."
             />
           </div>
